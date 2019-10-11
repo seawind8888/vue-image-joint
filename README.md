@@ -2,7 +2,7 @@
 基于vue的图片拼接组件，可返回base64用于上传
 
 ## Preview
-
+![image](/screenshot/preview.gif)
 
 ## Install
 
