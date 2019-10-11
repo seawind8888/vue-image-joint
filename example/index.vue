@@ -20,7 +20,9 @@ export default {
   },
   methods: {
     handleExportImage() {
+      
        this.imgSrc = this.$refs["joint"].getImageDataURL();
+       console.log('[base64]',this.imgSrc)
       
     }
   }
