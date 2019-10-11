@@ -42,9 +42,9 @@ vue file:
 
 | name            | type                             | default    | description                                                            |
 | --------------- | -------------------------------- | ---------- | ---------------------------------------------------------------------- |
-| width           | Number                           | auto       | 宽度（导出图片为此宽） 
-| info            | String                           | auto       | 图片选择提示信息
-| encoder         | Number                           | auto       | 图片质量
+| width           | Number                           | 500       | 宽度（导出图片为此宽） 
+| info            | String                           | "点击添加或拖拽此处"       | 图片选择提示信息
+| encoder         | Number                           | 0.5       | 图片质量
 
 ## Events
 
