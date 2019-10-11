@@ -1,5 +1,5 @@
 # vue-image-joint
-基于vue的图片拼接组件，返回base64用于上传
+基于vue的图片拼接组件，可返回base64用于上传
 
 ## Preview
 
